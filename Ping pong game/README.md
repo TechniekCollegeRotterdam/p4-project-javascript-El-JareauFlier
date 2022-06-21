@@ -1,1 +1,10 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7981612&assignment_repo_type=AssignmentRepo)
+# Spel uitleg van Pong
+
+Er is een ronde balletje die steeds naar jou en jouw tegenstander weerkaatst.
+De bal mag maximaal 1 x stuiteren voordat er wordt 
+teruggeslagen. Als er niet goed wordt teruggeslagen of geheel gemist, 
+wordt er een punt gescoord.
+
+## besturing
+
+Je gebruikt alleen de pijltjes [&uarr] & [&darr]
